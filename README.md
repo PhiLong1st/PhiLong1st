@@ -1,6 +1,6 @@
 <div align="center">
-  <img align="left" width=463 src="https://raw.githubusercontent.com/PhiLong1st/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
-  <img align="right" width=405 src="https://leetcard.jacoblin.cool/KoKoDuDu?theme=dark&font=Asap&ext=contest"/>
+  <img align="left" width=396 src="https://raw.githubusercontent.com/PhiLong1st/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
+  <img align="right" width=342 src="https://leetcard.jacoblin.cool/KoKoDuDu?theme=dark&font=Asap&ext=contest"/>
 </div>
 <!--
 **PhiLong1st/PhiLong1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
