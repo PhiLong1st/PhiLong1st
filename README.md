@@ -15,12 +15,12 @@
   <img
     src="https://raw.githubusercontent.com/PhiLong1st/cf-stats/main/output/light_card.svg#gh-dark-mode-only"
     alt="Codeforces Stats"
-    style="height: 15em; width: auto; border-radius: 12px;"
+    style="height: 18em; width: auto; border-radius: 12px;"
   />
   <img
     src="https://leetcard.jacoblin.cool/KoKoDuDu?theme=dark&font=Asap&ext=contest"
     alt="LeetCode Stats"
-    style="height: 15em; width: auto; border-radius: 12px;"
+    style="height: 18em; width: auto; border-radius: 12px;"
   />
 </p>
 
@@ -29,49 +29,38 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="40" height="40" /><br/>C#
+      <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="70" height="40" /><br/>C#
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" /><br/>C++
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="70" height="40" /><br/>C++
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40" height="40" /><br/>MySQL
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="60" height="40" /><br/>Java
+      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="70" height="40" /><br/>Java
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><br/>HTML
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="70" height="40" /><br/>HTML
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><br/>CSS
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="70" height="40" /><br/>CSS
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /><br/>JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="40" /><br/>JavaScript
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br/>Git
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="70" height="40" /><br/>MySQL
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" /><br/>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="40" /><br/>Git
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="70" height="40" /><br/>Docker
     </td>
   </tr>
 </table>
-
-<!-- 📊 GitHub Language Stats (Optional) -->
-<!--
-<p style="margin-top: 20px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhiLong1st&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    style="height: 13em; border-radius: 12px;"
-  />
-</p>
--->
 
 <!-- 🔗 Connect with Me -->
 <h2>🔗 Connect with Me:</h2>
