@@ -63,13 +63,13 @@
 <!-- 🔗 Connect with Me -->
 <h2>🔗 Connect with Me:</h2>
 <p>
-  <a href="https://www.linkedin.com/in/philongnguyen1704/" target="blank">
+  <a href="https://www.linkedin.com/in/philongnguyen1704/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/nguyen.phi.long.706830" target="blank">
+  <a href="https://www.facebook.com/nguyen.phi.long.706830" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/philong_174/" target="blank">
+  <a href="https://www.instagram.com/philong_174/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
